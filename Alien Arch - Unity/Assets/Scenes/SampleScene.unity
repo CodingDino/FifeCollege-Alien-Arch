@@ -236,6 +236,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e776817ba25bf54595f48b0f9a14b1a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  startMessage: Brand new start! 2.0
+  updateMessage: Brand new update!
+  message1: This is the first message
+  message2: This is the second message
+  message3: This is the third message
+  messageChoice: -1
+  messages:
+  - This is the first message (array)
+  - This is the second message (array)
+  - This is the third message (array)
 --- !u!4 &1846465327
 Transform:
   m_ObjectHideFlags: 0
